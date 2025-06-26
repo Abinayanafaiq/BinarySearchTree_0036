@@ -113,6 +113,7 @@ class BinaryTree{
     {
         if (isEmpty()){
             cout << "Tree is empty" << endl;
+            return;
         }
     }
 };
