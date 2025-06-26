@@ -108,4 +108,9 @@ class BinaryTree{
         preorder(ptr->leftchild)
         preorder(ptr->rightchild)
     }
+
+    void postorder(Node *ptr)
+    {
+        if (isEmpty())
+    }
 };
