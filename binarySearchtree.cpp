@@ -112,7 +112,7 @@ class BinaryTree{
     void postorder(Node *ptr)
     {
         if (isEmpty()){
-            cout << 
+            cout << "Tree is empty" << endl;
         }
     }
 };
