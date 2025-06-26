@@ -62,4 +62,11 @@ class BinaryTree{
             return;
         }
     }
+
+    void seacrh(int element, Node *&parent, Node *&currentNode)
+    {
+        currentNode = ROOT;
+        parent = nullptr;
+        while
+    }
 };
