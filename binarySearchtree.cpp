@@ -122,6 +122,7 @@ class BinaryTree{
 
     bool isEmpty()
     {
+            // Cheks if the tree is empty
         return ROOT == nullptr;
     }
 };
